@@ -6,7 +6,7 @@
 # Set working directory and read in the data
 setwd("C:/Users/Jenny/Documents/COURSERA/4 - Exploratory Data/Week 4")
 NEI <- readRDS("summarySCC_PM25.rds")
-SCC <- readRDS("Source_Classification_Code.rds")
+# SCC <- readRDS("Source_Classification_Code.rds")
 
 # Strategy:
 # Extract the years of interest from NEI into a new data frame (not needed)
